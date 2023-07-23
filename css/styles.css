@@ -1,3 +1,169 @@
 body { 
-    background-color: #fff;
+    font-family: "Roboto", "Raleway", sans-serif;
 }
+
+/*--------------HEADER-----------*/
+
+.header-logo{
+    color: var(--iris, #4D5AE5);
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        text-decoration: none;
+}
+.link {
+    text-decoration: none;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.header-logo-italic{
+    color: #2E2F42;
+}
+.header-menu-link{
+    color:  #2E2F42;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+
+}
+.header-sos-link{
+    color:var(--slate, #434455);
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+
+}
+
+/*--------------HERO-----------*/
+
+
+.hero {
+    background: var(--navyblue, #2E2F42);
+
+}
+.hero-title{
+    color: var(--white, #FFF);
+        text-align: center;
+        font-size: 56px;
+        font-weight: 12.5;
+        line-height: 1.07em;
+        letter-spacing: 1.12em;
+   
+
+}
+
+
+.hero-btn{
+    color: var(--white, #FFF);
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.64px;
+}
+
+
+/**------------ADVANTAGES------------**/
+
+
+
+.advantages-list{}
+
+.advantages-item{}
+
+.advantages-subtitle{
+    color: var(--navyblue, #2E2F42);
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+}
+
+.advantsges-item-text{
+    color: var(--slate, #434455);
+    font-size: 16px;
+    line-height: 1.5px;
+    letter-spacing: 0.02em;}
+
+
+
+    /**--------middle--------**/
+
+   .middle-name{
+    color: var(--navyblue, #2E2F42);
+        text-align: center;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        letter-spacing: 0.72px;
+        text-transform: capitalize
+
+   }
+   /*------------team--------------*/
+
+   .team{}
+
+   .team-name{
+    color: var(--navyblue, #2E2F42);
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;}
+
+
+   .team-name-list{}
+
+
+   .team-name-item {}
+   .team-name-subtitle{
+    color: var(--navyblue, #2E2F42);
+        text-align: center;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+   }
+   .team-name-text{
+    color: var(--slate, #434455);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px}
+
+
+    /*------------FOOTER-----------*/
+
+    .footer{
+        background:var(--navyblue, #2E2F42);
+    }
+
+    .footer-logo{color: var(--iris, #4D5AE5);
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 21px;
+        letter-spacing: 0.54px;
+        text-transform: uppercase}
+
+    .footer-logo-italic{color: var(--cloud, #F4F4FD);
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 21px;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;}
+
+    .footer-logo-text{color: var(--cloud, #F4F4FD);
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;}
+    
