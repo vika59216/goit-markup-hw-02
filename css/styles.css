@@ -106,11 +106,11 @@ body {
         cursor: pointer;
 }
  .header-menu-item:hover{
-    color: #404BBF;
+    background-color: #404BBF;
     }
 
  .header-menu-item:focus{
-  color: #404BBF;
+ background-color: #404BBF;
  }
 
 /**------------ADVANTAGES------------**/
