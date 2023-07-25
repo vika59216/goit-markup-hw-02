@@ -105,11 +105,11 @@ body {
         font-family: "Roboto", sans-serif;
         cursor: pointer;
 }
- .header-menu-item:hover{
+ .hero-btn:hover{
     background-color: #404BBF;
     }
 
- .header-menu-item:focus{
+ .hero-btn:focus{
  background-color: #404BBF;
  }
 
