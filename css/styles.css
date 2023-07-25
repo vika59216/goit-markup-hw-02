@@ -107,10 +107,9 @@ body {
 }
  .hero-btn:hover{
     color: #404BBF;
-    
+    }
 
- }
- .hero-btn:focus:focus{
+ .hero-btn:focus{
   color: #404BBF;
  }
 
