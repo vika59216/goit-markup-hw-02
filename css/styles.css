@@ -40,6 +40,12 @@ body {
         letter-spacing: 0.02em;
 
 }
+.header-menu-item :hover{color: #404bbf
+
+}
+.header-menu-item :focus{color: #404bbf}
+
+
 .header-sos-link{
     color:var(--slate, #434455);
         font-size: 16px;
