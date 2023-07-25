@@ -50,6 +50,14 @@ body {
 }
 .address:{font-style: normal;}
 
+.header-menu-item{color: var(--navyblue, #2E2F42);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2px;
+    letter-spacing: 0.02em;
+
+}
+
 /*--------------HERO-----------*/
 
 
