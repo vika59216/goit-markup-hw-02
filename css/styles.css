@@ -1,5 +1,7 @@
 body { 
-    font-family: "Roboto", "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 /*--------------HEADER-----------*/
@@ -8,10 +10,10 @@ body {
     color: var(--iris, #4D5AE5);
         font-size: 18px;
         font-weight: 800;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        text-decoration: none;
+        font-family: "Raleway"
 }
 .link {
     text-decoration: none;
@@ -54,7 +56,7 @@ body {
         font-size: 56px;
         font-weight: 12.5;
         line-height: 1.07em;
-        letter-spacing: 1.12em;
+        letter-spacing: 0.02em;
    
 
 }
@@ -66,8 +68,18 @@ body {
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.64px;
+        background-color: #4D5AE5;
+        font-family: "Roboto";
+        cursor: pointer;
 }
+ .hero-btn:hover :focus{
+    background-color: #404BBF;
+    
 
+ }
+ .hero-btn:focus:hover{
+background-color: #404BBF;
+ }
 
 /**------------ADVANTAGES------------**/
 
@@ -81,7 +93,7 @@ body {
     color: var(--navyblue, #2E2F42);
         font-size: 20px;
         font-weight: 500;
-        line-height: 24px;
+        line-height: 1.5px;
         letter-spacing: 0.4px;
 }
 
@@ -101,26 +113,28 @@ body {
         font-size: 36px;
         font-style: normal;
         font-weight: 700;
-        line-height: 40px;
+        line-height: 1.11px;
         letter-spacing: 0.72px;
         text-transform: capitalize
 
    }
    /*------------team--------------*/
 
-   .team{}
+   .team{
+    background-color: #F4F4FD;
+   }
 
    .team-name{
     color: var(--navyblue, #2E2F42);
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 1.11px;
     letter-spacing: 0.72px;
     text-transform: capitalize;}
 
 
-   .team-name-list{}
+   .team-name-list{background-color: #FFFFFF;}
 
 
    .team-name-item {}
@@ -145,12 +159,13 @@ body {
 
     .footer{
         background:var(--navyblue, #2E2F42);
+        font-family: 'Raleway', sans-serif;
     }
 
     .footer-logo{color: var(--iris, #4D5AE5);
         font-size: 18px;
         font-weight: 800;
-        line-height: 21px;
+        line-height: 1.17px;
         letter-spacing: 0.54px;
         text-transform: uppercase;
         text-decoration: none;
