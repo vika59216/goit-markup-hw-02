@@ -3,6 +3,12 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
+:root{
+    font-family: "Roboto", sans-serif;
+        color: #434455;
+        background-color: #FFFFFF;
+
+}
 
 /*--------------HEADER-----------*/
 
@@ -13,7 +19,7 @@ body {
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        font-family: "Raleway"
+        font-family: "Raleway", sans-serif;
 }
 .link {
     text-decoration: none;
