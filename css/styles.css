@@ -105,11 +105,11 @@ body {
         font-family: "Roboto", sans-serif;
         cursor: pointer;
 }
- .hero-btn:hover{
+ .header-menu-item:hover{
     color: #404BBF;
     }
 
- .hero-btn:focus{
+ .header-menu-item:focus{
   color: #404BBF;
  }
 
@@ -125,14 +125,14 @@ body {
     color: var(--navyblue, #2E2F42);
         font-size: 20px;
         font-weight: 500;
-        line-height: 1.2px;
+        line-height: 1.2;
         letter-spacing: 0.4px;
 }
 
 .advantsges-item-text{
     color: var(--slate, #434455);
     font-size: 16px;
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.02em;}
 
 
@@ -145,7 +145,7 @@ body {
         font-size: 36px;
         font-style: normal;
         font-weight: 700;
-        line-height: 1.11px;
+        line-height: 1.11;
         letter-spacing: 0.72px;
         text-transform: capitalize
 
