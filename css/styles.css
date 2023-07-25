@@ -82,12 +82,12 @@ body {
         cursor: pointer;
 }
  .hero-btn:hover{
-    background-color: #404BBF;
+    color: #404BBF;
     
 
  }
  .hero-btn:focus:focus{
-background-color: #404BBF;
+  color: #404BBF;
  }
 
 /**------------ADVANTAGES------------**/
