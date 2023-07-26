@@ -4,9 +4,8 @@ body {
     background-color: #FFFFFF;
 }
 :root{
-    font-family: "Roboto", sans-serif;
-        color: #434455;
-        background-color: #FFFFFF;
+border: 1px solid var(--cornflower, #E7E9FC);
+    background: var(--white, #FFF);
 
 }
 
