@@ -5,7 +5,13 @@ body {
 }
 :root{
 border: 1px solid var(--cornflower, #E7E9FC);
-    background: var(--white, #FFF);
+                --primary-font: "Roboto", sans-serif;
+                --title-font: "Raleway", sans-serif;
+                --primary-black-color: var(--slate, #434455;
+                --primary-white-color:#FFFFFF;
+                --primary-accent-color:#2e2f42;
+                --secondary-accent-color: #404bbf;
+                --active-link-color: #434455);
 
 }
 
