@@ -201,6 +201,64 @@ border: 1px solid var(--cornflower, #E7E9FC);
     letter-spacing: 0.32px}
 
 
+    /*-------portfolio------------*/
+
+
+    .portfolio-little{
+
+    }
+
+
+    .portfolio-btn{
+        color: var(--white, #FFF);
+            text-align: center;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0.64px;
+            background: var(--ocean, #404BBF);
+    }
+
+    .portfolio-btn-sent{
+        color: var(--iris, #4D5AE5);
+            text-align: center;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0.64px;
+            background: var(--cloud, #F4F4FD);
+    }
+
+    .portfolio-carts{
+        
+    }
+
+    .portfolio-carts-list{
+        
+    }
+    .portfolio-carts-tittle{
+        color: var(--navyblue, #2E2F42);
+            font-size: 20px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0.4px;
+        
+    }
+
+    .portfolio-carts-text{
+        color: var(--slate, #434455);
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0.32px;
+    }
+
+
+
+
+
+
+
     /*------------FOOTER-----------*/
 
     .footer{
@@ -232,3 +290,5 @@ border: 1px solid var(--cornflower, #E7E9FC);
         letter-spacing: 0.32px;
     }
     
+
+
