@@ -228,8 +228,8 @@ border: 1px solid var(--cornflower, #E7E9FC);
             text-align: center;
             font-size: 16px;
             font-weight: 500;
-            line-height: 24px;
-            letter-spacing: 0.64px;
+            line-height: 1,5;
+            letter-spacing: 0.04em;
             background: var(--cloud, #F4F4FD);
     }
 
