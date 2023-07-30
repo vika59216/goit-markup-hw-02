@@ -210,7 +210,7 @@ border: 1px solid var(--cornflower, #E7E9FC);
     .portfolio-btn {}
 
 
-    .portfolio-btn-all{
+    .portfolio-btn{
         color: #4d5ae5;
             text-align: center;
             font-size: 16px;
@@ -223,41 +223,19 @@ border: 1px solid var(--cornflower, #E7E9FC);
              background-color:#F4F4FD;
     }
 
-    .portfolio-btn-sent{
-        color: #4d5ae5;
-            text-align: center;
-            font-size: 16px;
-            font-weight: 500;
-            line-height: 1.5;
-            letter-spacing: 0.04em;
-            background: var(--ocean, #404BBF);
-            font-family: "Roboto", sans-serif;
-            cursor: pointer;
-            background-color: #F4F4FD;
-    }
 
-    .portfolio-btn-all:hover{
+    .portfolio-btn:hover{
         color: #FFFFFF;
         background-color: #404BBF;
     }
 
-    .portfolio-btn-sent:hover{
+    .portfolio-btn:hover{
         color: #FFFFFF;
             background-color: #404BBF;
 
     }
 
-    .portfolio-btn-all:focus{
-        color: #FFFFFF;
-        background-color: #404BBF;
-
-    }
-
-        .portfolio-btn-sent:focus{
-        color: #FFFFFF;
-            background-color: #404BBF;
-        }
-
+    
     .portfolio-carts{
         
     }
