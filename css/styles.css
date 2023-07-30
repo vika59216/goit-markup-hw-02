@@ -241,11 +241,22 @@ border: 1px solid var(--cornflower, #E7E9FC);
         background-color: #404BBF;
     }
 
+    .portfolio-btn-sent:hover{
+        color: #FFFFFF;
+            background-color: #404BBF;
+
+    }
+
     .portfolio-btn-all:focus{
         color: #FFFFFF;
         background-color: #404BBF;
 
     }
+
+        .portfolio-btn-sent:focus{
+        color: #FFFFFF;
+            background-color: #404BBF;
+        }
 
     .portfolio-carts{
         
