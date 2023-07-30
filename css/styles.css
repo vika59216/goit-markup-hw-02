@@ -211,13 +211,16 @@ border: 1px solid var(--cornflower, #E7E9FC);
 
 
     .portfolio-btn-all{
-        color: var(--white, #FFF);
+        color: #4d5ae5;
             text-align: center;
             font-size: 16px;
             font-weight: 500;
-            line-height: 24px;
-            letter-spacing: 0.64px;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
             background: var(--ocean, #404BBF);
+             font-family: "Roboto", sans-serif;
+             cursor: pointer;
+             background-color:#F4F4FD;
     }
 
     .portfolio-btn-sent{
