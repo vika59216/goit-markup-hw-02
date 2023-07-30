@@ -207,9 +207,10 @@ border: 1px solid var(--cornflower, #E7E9FC);
     .portfolio-little{
 
     }
+    .portfolio-btn {}
 
 
-    .portfolio-btn{
+    .portfolio-btn-all{
         color: var(--white, #FFF);
             text-align: center;
             font-size: 16px;
