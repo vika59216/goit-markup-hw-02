@@ -229,7 +229,7 @@ border: 1px solid var(--cornflower, #E7E9FC);
         background-color: #404BBF;
     }
 
-    .portfolio-btn:hover{
+    .portfolio-btn:focus{
         color: #FFFFFF;
             background-color: #404BBF;
 
